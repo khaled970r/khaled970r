@@ -25,6 +25,8 @@ I'm a cybersecurity graduate focused on the defensive side: detecting threats, i
 <details>
 <summary><b>More projects</b></summary>
 
+- [Linux Server Administration](https://github.com/khaled970r/linux-server-administration): DNS (BIND), DHCP, Postfix/Dovecot, Apache SSL/TLS, firewall, NFS
+- [Enterprise Network: Switching, Routing & Layer 2 Security](https://github.com/khaled970r/enterprise-network-switching-routing): VLANs, OSPF, HSRP, EtherChannel, WLC, DHCP snooping
 - [KL Branch Network Design](https://github.com/khaled970r/kl-branch-network-design): Cisco Packet Tracer, VLSM
 - [Student Information System](https://github.com/khaled970r/student-information-system-c): C
 - [Hall Booking Management System](https://github.com/khaled970r/hall-booking-management-system): Java Swing
@@ -44,4 +46,6 @@ I'm a cybersecurity graduate focused on the defensive side: detecting threats, i
 **Offensive Security:** Kali Linux · Nmap · Gobuster · OpenVAS · sqlmap · Aircrack-ng suite · IDA
 **AppSec:** Bandit (SAST) · OWASP Top 10 · CWE
 **Cloud & Networking:** AWS (VPC, EC2, RDS, ALB, Auto Scaling) · Cisco Packet Tracer · subnetting/VLSM
+**Enterprise Networking:** VLANs · OSPF · HSRP · EtherChannel · Layer 2 security (port security, DHCP snooping)
+**Systems:** Linux (Ubuntu, Rocky) · DNS (BIND) · DHCP · Postfix/Dovecot · Apache · firewall (UFW/iptables) · NFS
 **Programming:** Python · C · C++ · Java · R · SQL · x86 Assembly
